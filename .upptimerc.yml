@@ -26,7 +26,7 @@ status-website:
   introMessage: This is status page which uses **real-time** data from [GitHub repository](https://github.com/upptime/upptime). No server required, just GitHub Actions, Issues, and Pages. 
   navbar:
     - title: Status
-      href: /
+      href: /SystamMonitor
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
 
