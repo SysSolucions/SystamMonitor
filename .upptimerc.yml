@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Systam status
   introTitle: "**Systam Status** uptime monitor and status page, managed entirely by Solucions."
-  introMessage: This is status page which uses **real-time** data from [GitHub repository](https://github.com/upptime/upptime). No server required, just GitHub Actions, Issues, and Pages. 
+  introMessage: This is status page which uses **real-time** data from [Uptime](https://github.com/upptime/upptime). No server required, just GitHub Actions, Issues, and Pages. 
   navbar:
     - title: Status
       href: /SystamMonitor
