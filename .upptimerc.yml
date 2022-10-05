@@ -9,8 +9,10 @@ sites:
     url: https://cloud.systam.tech
   - name: CASS Prestadors
     url: https://online.cass.ad
-  - name: CASS
-    url: https://cass.ad
+  - name: Google Ping
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
