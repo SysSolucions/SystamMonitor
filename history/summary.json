@@ -22,9 +22,9 @@
     "url": "https://cloud.systam.tech",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.systam.tech.ico",
     "slug": "systam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 883,
     "timeMonth": 897,
     "timeYear": 897,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   },
   {
     "name": "CASS Prestadors",
