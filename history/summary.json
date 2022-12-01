@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 195,
+    "time": 118,
+    "timeDay": 64,
     "timeWeek": 91,
     "timeMonth": 102,
-    "timeYear": 119,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 959,
-    "timeDay": 803,
-    "timeWeek": 1008,
-    "timeMonth": 985,
-    "timeYear": 959,
+    "time": 956,
+    "timeDay": 777,
+    "timeWeek": 1011,
+    "timeMonth": 973,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2022-10-13": 171
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.cass.ad.ico",
     "slug": "cass-prestadors",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 2164,
-    "timeDay": 1679,
-    "timeWeek": 2020,
-    "timeMonth": 2217,
-    "timeYear": 2164,
+    "uptimeYear": "99.89%",
+    "time": 2155,
+    "timeDay": 1573,
+    "timeWeek": 2015,
+    "timeMonth": 2197,
+    "timeYear": 2155,
     "dailyMinutesDown": {
       "2022-10-17": 94
     }
@@ -71,7 +71,7 @@
     "time": 6,
     "timeDay": 1,
     "timeWeek": 4,
-    "timeMonth": 6,
+    "timeMonth": 5,
     "timeYear": 6,
     "dailyMinutesDown": {}
   }
