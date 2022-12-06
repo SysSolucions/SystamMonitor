@@ -22,9 +22,9 @@
     "url": "https://cloud.systam.tech",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.systam.tech.ico",
     "slug": "systam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -34,6 +34,7 @@
     "timeMonth": 1025,
     "timeYear": 974,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-10-13": 171
     }
   },
@@ -43,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.cass.ad.ico",
     "slug": "cass-prestadors",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 2179,
     "timeDay": 2266,
     "timeWeek": 2255,
